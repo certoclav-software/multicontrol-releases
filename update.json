@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.0",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.3.0/MultiControlSetup-1.3.0.exe",
-    "size":  51099539,
-    "sha256":  "ecd9490bbf5406d73850b7dace746b309b9941397b37d761d47ba26c3f9f304e",
-    "notes":  "- Selbst-Update: Die Software kann in den Einstellungen nach einer neueren Fassung suchen,\n  sie herunterladen und installieren. Einstellungen und Premium-Freischaltungen bleiben dabei\n  erhalten.\n- Das Log-Verzeichnis liegt jetzt in den Einstellungen und wird dauerhaft gespeichert; auf\n  Wunsch legt die Software alle 20 Minuten zusätzlich eine Sicherungskopie der Logdatei an."
+    "version":  "1.3.1",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.3.1/MultiControlSetup-1.3.1.exe",
+    "size":  51092974,
+    "sha256":  "b34f90e2a2429fbaa742d433a3dab4cd8b6a5e385fe42ca0d81248b86123e0cd",
+    "notes":  "- Die Liste der erlaubten Download-Adressen nennt jetzt den Auslieferungsdienst, über den\n  GitHub Release-Dateien tatsächlich ausliefert. Bisher stand dort ein Host, der dafür nicht\n  mehr verwendet wird."
 }
