@@ -1,0 +1,7 @@
+{
+    "version":  "1.3.0",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.3.0/MultiControlSetup-1.3.0.exe",
+    "size":  51099539,
+    "sha256":  "ecd9490bbf5406d73850b7dace746b309b9941397b37d761d47ba26c3f9f304e",
+    "notes":  "- Selbst-Update: Die Software kann in den Einstellungen nach einer neueren Fassung suchen,\n  sie herunterladen und installieren. Einstellungen und Premium-Freischaltungen bleiben dabei\n  erhalten.\n- Das Log-Verzeichnis liegt jetzt in den Einstellungen und wird dauerhaft gespeichert; auf\n  Wunsch legt die Software alle 20 Minuten zusätzlich eine Sicherungskopie der Logdatei an."
+}
