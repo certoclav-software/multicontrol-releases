@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.2",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.3.2/MultiControlSetup-1.3.2.exe",
-    "size":  51108514,
-    "sha256":  "cee9c1dc13c8652cf799bfe06f143cc954f38457c68102e0c9b975248043a58a",
-    "notes":  "- Der Knopf „Programme abfragen\" zeigt wieder sein Symbol.\n- Über den Verbindungseinstellungen steht jetzt eine Überschrift.\n- Die Programm-Kacheln sind breiter, damit die Reihen gleichmäßiger umbrechen\n  und die Temperaturkurve größer dargestellt wird."
+    "version":  "1.4.0",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.4.0/MultiControlSetup-1.4.0.exe",
+    "size":  51089842,
+    "sha256":  "16c88901ebced6524906cb117860b332d701271f0bd132112e92ce8e33943f23",
+    "notes":  "- „Programme speichern\" zeigt jetzt, wie viele Änderungen noch nicht auf dem Gerät sind, und\n  fragt vor dem Schreiben nach: ein Dialog listet jede Änderung mit altem und neuem Wert auf\n  und muss ausdrücklich bestätigt werden.\n- Ohne Änderungen wird nichts mehr geschrieben; vorher hätte ein Klick den gesamten Speicher\n  des Geräts unnötig neu beschrieben."
 }
