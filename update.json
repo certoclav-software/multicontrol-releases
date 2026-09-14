@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.3",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.3/MultiControlSetup-1.5.3.exe",
-    "size":  51088789,
-    "sha256":  "5beeda68a27a86a8fd40274d34f1581ae7f8f3878e14db4911da7863f946cbca",
-    "notes":  "- Ist eine neuere Fassung verfügbar, zeigt die Software das von sich aus an: ein roter Punkt\n  am Knopf „Einstellungen\" und in den Einstellungen ein Schildchen mit der Versionsnummer\n  neben „Updates\". Dafür fragt die Software kurz nach dem Start einmal still nach — nur diese\n  eine kleine Datei, ohne Netz passiert nichts. Heruntergeladen und installiert wird\n  weiterhin ausschließlich auf Klick."
+    "version":  "1.5.4",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.4/MultiControlSetup-1.5.4.exe",
+    "size":  51095903,
+    "sha256":  "22a169c56ffa6d6e864c1007d33764171b2823ff7efd2fc5578a57cbb8ceeaf3",
+    "notes":  "- Der Knopf „Programme speichern\" ist wieder genauso hoch wie „Programme abfragen\" daneben.\n  Das Schildchen mit der Anzahl der Änderungen hatte ihn auseinandergedrückt.\n- Die Premium-Freischaltung wurde einmalig erneuert. Ein bereits freigeschaltetes Gerät fragt\n  nach diesem Update deshalb noch einmal nach seinem Key. Den neuen Key gibt es beim Support."
 }
