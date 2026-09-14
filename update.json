@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.4.0/MultiControlSetup-1.4.0.exe",
-    "size":  51089842,
-    "sha256":  "16c88901ebced6524906cb117860b332d701271f0bd132112e92ce8e33943f23",
-    "notes":  "- „Programme speichern\" zeigt jetzt, wie viele Änderungen noch nicht auf dem Gerät sind, und\n  fragt vor dem Schreiben nach: ein Dialog listet jede Änderung mit altem und neuem Wert auf\n  und muss ausdrücklich bestätigt werden.\n- Ohne Änderungen wird nichts mehr geschrieben; vorher hätte ein Klick den gesamten Speicher\n  des Geräts unnötig neu beschrieben."
+    "version":  "1.5.0",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.0/MultiControlSetup-1.5.0.exe",
+    "size":  51092905,
+    "sha256":  "d6bf134c9293f7b3af8114733e9c906f61c2bd1f351516726af3f3f45cf1c3bc",
+    "notes":  "- Der Verbindungsbereich oben im Fenster ist neu geordnet. Port, Gerät und Verbindungszustand\n  stehen jetzt dauerhaft in einer Zeile statt nur als Meldung, und beim Verbinden ist zu sehen,\n  dass die Software arbeitet — vorher blieb sie dabei bis zu fünf Sekunden stumm. Die Nebenzeile\n  nennt zusätzlich den Zyklenzähler des Autoklaven.\n- Die Einstellungen sind über einen beschrifteten Knopf in diesem Bereich erreichbar. Das kleine\n  Zahnrad in der Titelleiste war praktisch nicht zu finden und entfällt.\n- Baudrate, Parität, Datenbits und Stopbits liegen hinter „Erweitert\" und bleiben jetzt\n  gespeichert. Bisher belegten sie die halbe Zeile, wurden bei kleinem Fenster rechts\n  abgeschnitten und fielen bei jedem Start auf die Standardwerte zurück.\n- Die Meldungsleiste zeigt nur noch Warnungen und Fehler. Alles, was sie vorher als Hinweis\n  oder Erfolgsmeldung anzeigte, steht jetzt dauerhaft und genauer in der Zustandszeile.\n- „Trennen\" ist gesperrt, solange Daten mit dem Gerät ausgetauscht werden, und nennt den Grund:\n  ein Abbruch mitten im Schreiben kann Programme unvollständig auf dem Autoklaven zurücklassen.\n- Eine unzulässige Kombination aus 1,5 Stopbits und Datenbits wird jetzt vorher abgefangen und\n  erklärt, statt erst das Verbinden mit einer Windows-Fehlermeldung scheitern zu lassen."
 }
