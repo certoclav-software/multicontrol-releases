@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.1",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.1/MultiControlSetup-1.5.1.exe",
-    "size":  51096346,
-    "sha256":  "15af4ba61803e0ef5fea2ab7a95ac98452276b512b04fb1904c38d7fa4638ae4",
-    "notes":  "- Vor der Zustandsanzeige im Verbindungsbereich steht jetzt „Verbindungsstatus:\", und das\n  Premium-Feld sitzt rechts neben den Einstellungen statt neben dem Gerätenamen — beide\n  führen in dasselbe Fenster.\n- Der Knopf beim Log-Verzeichnis heißt nur noch „Ändern\" und trägt ein Stiftsymbol. Wohin er\n  führt, sagt sein Tooltip.\n- Baudrate, Parität, Datenbits und Stopbits stehen jetzt in den Einstellungen im neuen\n  Abschnitt „Verbindung\" statt hinter einer Klappe im Hauptfenster. Der eingestellte Wert\n  bleibt oben in der Nebenzeile sichtbar, geändert wird er in den Einstellungen — mit einem\n  Knopf zurück auf 9600 · 8N1 und einem Hinweis, dass eine offene Verbindung erst getrennt\n  werden muss. Der Verbindungsbereich im Hauptfenster ist damit zwei Zeilen kurz.\n- Im Update-Abschnitt steht jetzt über der Änderungsliste, welche Version angeboten wird und\n  wie weit der Download ist. Bisher stand beides darunter und war bei einer längeren Liste\n  nicht mehr im Bild."
+    "version":  "1.5.2",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.2/MultiControlSetup-1.5.2.exe",
+    "size":  51103668,
+    "sha256":  "79576f3300c4859a3f3dc23ddb46c66dbaf3ec5b1ea8402408d5e2e633aa08a1",
+    "notes":  "- Die Sicherungskopien der Logdatei fragen jetzt nach einem eigenen Zielordner. Beim\n  Einschalten geht die Ordnerauswahl auf, und die Einstellung nennt anschließend, ob das Ziel\n  ein Wechseldatenträger, ein Netzlaufwerk oder eine lokale Platte ist. Liegt der Ordner im\n  Log-Verzeichnis, wird gewarnt: dort schützen die Kopien gegen nichts, weil sie mit dem\n  Log-Verzeichnis zusammen verloren gehen."
 }
