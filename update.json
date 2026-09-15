@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.5",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.5/MultiControlSetup-1.5.5.exe",
-    "size":  51113598,
-    "sha256":  "4fe121d8d77f5d1d29d1afc83d0cbaa6d67e3749f8fb2d24696b80473976d74e",
-    "notes":  "- Die zusätzlichen Sicherungskopien der Logdatei sind ab Werk ausgeschaltet. Vorher waren sie\n  eingeschaltet, obwohl noch kein Zielordner gewählt sein konnte — die Kopien lagen dann neben\n  der Logdatei, wo sie mit ihr zusammen verloren gehen, und die Einstellungen warnten auch\n  entsprechend. Wer die Kopien möchte, schaltet sie ein und wählt dabei gleich den Ordner.\n- Schaltflächen und Auswahllisten melden sich jetzt mit ihrer sichtbaren Beschriftung an\n  Bildschirmleser und andere Bedienhilfen. Vorher meldeten mehrere von ihnen gar keinen Namen.\n- Der Umschalter zwischen Listen- und Kachelansicht hat einen Tooltip bekommen, der sagt, was\n  er tut.\n- In der Oberfläche heißt es durchgehend „Version\" statt „Fassung\"."
+    "version": "1.5.5",
+    "url": "https://github.com/certoclav-software/multicontrol-releases/releases/download/v1.5.5/MultiControlSetup-1.5.5.exe",
+    "size": 51113598,
+    "sha256": "4fe121d8d77f5d1d29d1afc83d0cbaa6d67e3749f8fb2d24696b80473976d74e",
+    "notes": "- Die zusätzlichen Sicherungskopien der Logdatei sind ab Werk ausgeschaltet. Vorher waren sie\n  eingeschaltet, obwohl noch kein Zielordner gewählt sein konnte — die Kopien lagen dann neben\n  der Logdatei, wo sie mit ihr zusammen verloren gehen, und die Einstellungen warnten auch\n  entsprechend. Wer die Kopien möchte, schaltet sie ein und wählt dabei gleich den Ordner.\n- Schaltflächen und Auswahllisten melden sich jetzt mit ihrer sichtbaren Beschriftung an\n  Bildschirmleser und andere Bedienhilfen. Vorher meldeten mehrere von ihnen gar keinen Namen.\n- Der Umschalter zwischen Listen- und Kachelansicht hat einen Tooltip bekommen, der sagt, was\n  er tut.\n- In der Oberfläche heißt es jetzt überall einheitlich „Version\"."
 }
