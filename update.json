@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.2",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v2.0.2/MultiControlSetup-2.0.2.exe",
-    "size":  50803558,
-    "sha256":  "a58dcb16468d56b509afc53ec38ec7b84a9e6884ead8888c31527d2366dc4c1a",
-    "notes":  "- Nach einer kurzen Verbindungsunterbrechung während eines Laufs zeichnet die Software sofort weiter auf."
+    "version":  "2.0.3",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v2.0.3/MultiControlSetup-2.0.3.exe",
+    "size":  50806808,
+    "sha256":  "124193a68f1e0e306a0fdc446f6961d39bddb9119ddd3170231dfcc1703d4893",
+    "notes":  "- Während eines Laufs sind „Starten“, „Vom Gerät lesen“ und „Auf Gerät übertragen“ gesperrt, ein Hinweis sagt warum.\n- Verbindet man sich während eines laufenden Zyklus, meldet ein Dialog, dass er läuft und ab jetzt aufgezeichnet wird.\n- Die Restzeit der Haltephase kommt direkt vom Autoklaven, und ein am Gerät gestartetes Programm wird sicherer erkannt."
 }
