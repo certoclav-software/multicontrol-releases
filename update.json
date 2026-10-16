@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.3",
-    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v2.0.3/MultiControlSetup-2.0.3.exe",
-    "size":  50806808,
-    "sha256":  "124193a68f1e0e306a0fdc446f6961d39bddb9119ddd3170231dfcc1703d4893",
-    "notes":  "- Während eines Laufs sind „Starten“, „Vom Gerät lesen“ und „Auf Gerät übertragen“ gesperrt, ein Hinweis sagt warum.\n- Verbindet man sich während eines laufenden Zyklus, meldet ein Dialog, dass er läuft und ab jetzt aufgezeichnet wird.\n- Die Restzeit der Haltephase kommt direkt vom Autoklaven, und ein am Gerät gestartetes Programm wird sicherer erkannt."
+    "version":  "2.0.4",
+    "url":  "https://github.com/certoclav-software/multicontrol-releases/releases/download/v2.0.4/MultiControlSetup-2.0.4.exe",
+    "size":  50806907,
+    "sha256":  "984ccbbe062e353be8e3a83864e0485776586cf8a5257dd9fdda9b5e68318835",
+    "notes":  "- Der Temperaturverlauf im Lauf und im PDF zeigt nur noch die gemessene Kurve, ohne geschätzten Sollverlauf.\n- Das Toleranzband liegt dort, wo die Haltephase wirklich war."
 }
